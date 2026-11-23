@@ -10,7 +10,7 @@ The objective of this project is to transform raw customer service data into mea
 
 ## Pratinjau Dasbor
 
-[![Dasbor Kinerja Layanan Pelanggan](images/customer_service_dashboard.png)](images/customer_service_dashboard.png)
+https://github.com/clintonbantoruan/customer-service-performance-dashboard/blob/main/customer_service_dashboard.png
 
 ## Dataset Description
 
